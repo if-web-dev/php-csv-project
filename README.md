@@ -1,2 +1,2 @@
 # php-csv-project
-process csv data using php in exercice
+process csv data using php and mysql in exercice
